@@ -1,0 +1,35 @@
+.card {
+  display: flex;
+  padding: 10px;
+  height: 150px;
+  width: 400px;
+  background-color: rgba(255, 255, 255, 0.192);
+  border-radius: 10px;
+  margin: 15px 0;
+  box-shadow: 3px 3px 5px grey;
+}
+.image {
+  height: auto;
+  width: 170px;
+  border-radius: 10px;
+}
+.description {
+  width: 230px;
+}
+.numbers {
+  background-color: rgba(128, 128, 128, 0.233);
+  height: 50px;
+  display: flex;
+  justify-content: space-evenly;
+  border-radius: 10px;
+  margin-left: 10px;
+  padding: 5px;
+}
+.span{
+font-size: 12px;
+margin-bottom: 20px;
+}
+.figures{
+  color: rgb(50, 50, 117);
+  padding-top: 20px;
+}
